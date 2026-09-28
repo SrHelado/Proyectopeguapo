@@ -6,4 +6,10 @@
     list-style: none;
 
     text-align: center;
+
+}
+
+table {
+    height: 60vh;
+    width: 60vw;
 }
